@@ -1,4 +1,9 @@
 .container {
-  width: 520px;
-  margin-top: 20px;
+  width: 500px;
+  margin-top: 500px;
+}
+
+.inbox-row {
+  width: 500px;
+  margin-top:50px;
 }
